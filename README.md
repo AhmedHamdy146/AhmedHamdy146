@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Embedded Systems**
 
+- :computer: I am a competitive programmer at `Codeforces`,`Leetcode`.
+
 - 📫 How to reach me **ah.hamd221@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
